@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://www.linkedin.com/in/sanchit-sanchit-sharma-7722ba37b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/20Ana)
+[![GitHub](https://github.com/dashboard)
 
 ---
 
